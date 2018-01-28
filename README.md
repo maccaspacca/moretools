@@ -6,3 +6,9 @@ Bismuth
 pass_test.py
 
 a tool to test the password on privkey_encrypted.der
+
+regenpubkey.py
+
+a tool to regenerate pubkey.der from private key file.
+
+Executable in releeases - windows only
