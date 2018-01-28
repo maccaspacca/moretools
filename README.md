@@ -11,4 +11,4 @@ regenpubkey.py
 
 a tool to regenerate pubkey.der from private key file.
 
-Executable in releeases - windows only
+Executable in releases - windows only
